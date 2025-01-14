@@ -1,1 +1,1 @@
-Git abd github learn
+Git and github learn
